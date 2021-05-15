@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Valere-Omerzu
-- 👀 I’m interested in Linux
+- 👀 I’m interested in Linux & Python
 - 🌱 I’m currently learning Kali
 - 💞️ I’m looking to collaborate on improving Teslamate
 - 📫 How to reach me valere.omerzu@gmail.com 
